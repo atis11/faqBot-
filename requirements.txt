@@ -1,0 +1,32 @@
+# FAQ Bot - Snitch Knowledge Base Crawler
+# Dependencies for the project
+
+# Core dependencies
+requests>=2.32.0
+beautifulsoup4>=4.13.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment if you want to add these features later:
+
+# For JSON handling and data processing
+# pandas>=2.0.0
+
+# For vector database integration (RAG systems)
+# chromadb>=0.4.0
+# sentence-transformers>=2.2.0
+
+# For advanced web scraping (if needed in future)
+# selenium>=4.15.0
+# scrapy>=2.11.0
+
+# For data visualization (optional)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# For API development (if you want to create an API)
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+
+# For testing
+# pytest>=7.4.0
+# pytest-cov>=4.1.0

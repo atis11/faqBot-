@@ -1,0 +1,113 @@
+# All FAQ
+
+Total FAQs: 10
+Generated on: 2025-09-06 00:29:18
+
+==================================================
+
+## FAQ 1
+**Question:** WHERE IS MY ORDER?
+
+**Answer:** We ship 99% of orders within 24 hours. Once dispatched, they're handed over to our courier partners for delivery. You can track your order in [MY_ORDERS]. 
+
+If your order is delayed, please allow 24 - 48 hours beyond the expected date. Our champs will continue to track these delays proactively even without you reaching out to us.
+
+**Related Links:** MY_ORDERS
+
+------------------------------
+
+## FAQ 2
+**Question:** HOW CAN I CANCEL MY ORDER?
+
+**Answer:** You can cancel your order from [MY_ORDERS] until it is processed (usually within 1 hour of confirmation).
+        
+If it’s already packed or shipped, cancellation won’t be possible. In that case, you can refuse the delivery when it arrives. For prepaid orders, we’ll initiate your refund right after refusal.
+
+**Related Links:** MY_ORDERS
+
+------------------------------
+
+## FAQ 3
+**Question:** HOW CAN I RETURN MY ORDER?
+
+**Answer:** You can initiate a return via [MY_ORDERS] within 30 days of delivery if you're a SNITCH X member. For non-SNITCH X customers, the return window is within 7 days of delivery. Items must be unused, intact, and not part of hygiene-sensitive categories (like innerwear/accessories) or special promotions (like BOGO).
+
+See our full [RETURN_POLICY]. Received a wrong, damaged, or defective item? Please report it within 24 hours so we can take prompt action.
+
+**Related Links:** MY_ORDERS, RETURN_POLICY
+
+------------------------------
+
+## FAQ 4
+**Question:** HOW CAN I EXCHANGE MY ORDER?
+
+**Answer:** You can request an exchange via [MY_ORDERS] within 30 days of delivery if you're a SNITCH X member. For non-SNITCH X customers, the exchange window is within 7 days of delivery - currently only for size changes - not for any colour change requests. Ensure the item is intact, they're not hygiene-sensitive (like innerwear or accessories) or part of special promotions (like BOGO).
+
+See our full [RETURN_POLICY]. Our delivery partner will pick it up in 1-2 business days, and we'll ship the replacement once received.
+
+**Related Links:** MY_ORDERS, RETURN_POLICY
+
+------------------------------
+
+## FAQ 5
+**Question:** WHERE IS MY REFUND?
+
+**Answer:** You can track your refund anytime from the [REFUNDS_SECTION] in your account. Refunds are initiated once the returned item passes a quick quality check. It may take 5-7 business days for your bank or payment provider to credit the amount. Prepaid refunds go to the original payment method.
+
+COD refunds are credited to your [SNITCH_WALLET] for future use.
+
+**Related Links:** REFUNDS_SECTION, SNITCH_WALLET
+
+------------------------------
+
+## FAQ 6
+**Question:** MONEY GOT DEDUCTED, BUT ORDER WASN'T PLACED. WHAT SHOULD I DO?
+
+**Answer:** Don't worry! If the amount was deducted but the order didn't go through, the refund is usually processed automatically. It may take up to 5-7 business days to reflect in your original payment method, depending on your bank or provider.
+
+Haven't received it yet? [REFUND_SUPPORT]
+
+**Related Links:** REFUND_SUPPORT
+
+------------------------------
+
+## FAQ 7
+**Question:** MY RETURN IS NOT PICKED
+
+**Answer:** Our courier partner usually picks up return orders within 2-3 business days of the request. If it's been longer, please check the [MY_ORDERS] section for the latest status. Sometimes delays can occur due to service availability or local issues.
+
+**Related Links:** MY_ORDERS
+
+------------------------------
+
+## FAQ 8
+**Question:** MY RETURN IS PICKED UP BUT EXCHANGE ORDER IS NOT DELIVERED
+
+**Answer:** We don't deliver the exchange item at the time of pickup. After your order is picked up (usually within 2-3 business days), we ship exchange item as per our standard delivery timelines.
+
+Need help? [EXCHANGE_ORDER_HELP]
+
+**Related Links:** EXCHANGE_ORDER_HELP
+
+------------------------------
+
+## FAQ 9
+**Question:** HOW DO I TRANSFER MONEY FROM WALLET TO BANK ACCOUNT?
+
+**Answer:** Your [SNITCH_WALLET] balance can be used for future purchases. But if you prefer a bank refund, we've got you!
+
+Need help? [WALLET_TRANSFER]
+
+**Related Links:** SNITCH_WALLET, WALLET_TRANSFER
+
+------------------------------
+
+## FAQ 10
+**Question:** I AM NOT ABLE TO PLACE AN ORDER
+
+**Answer:** If you're facing issues while placing an order, it could be due to payment failures, address errors, or a temporary glitch.
+
+We recommend checking your internet connection, trying a different payment method, or refreshing the page/app.
+
+------------------------------
+

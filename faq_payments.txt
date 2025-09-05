@@ -1,0 +1,17 @@
+# Payments FAQ
+
+Total FAQs: 1
+Generated on: 2025-09-06 00:29:18
+
+==================================================
+
+## FAQ 1
+**Question:** MY PAYMENT WAS DEDUCTED FROM THE BANK ACCOUNT BUT THE ORDER WASN'T PLACED. WHAT SHOULD I DO?
+
+**Answer:** Don't worry! If the amount was deducted but the order didn't go through, the refund is usually processed automatically. It may take up to 5–7 business days to reflect in your original payment method, depending on your bank or provider.
+Haven't received it yet? [REFUND_SUPPORT]
+
+**Related Links:** REFUND_SUPPORT
+
+------------------------------
+

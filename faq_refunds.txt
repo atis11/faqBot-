@@ -1,0 +1,66 @@
+# Refunds FAQ
+
+Total FAQs: 6
+Generated on: 2025-09-06 00:29:18
+
+==================================================
+
+## FAQ 1
+**Question:** WHERE IS MY REFUND?
+
+**Answer:** You can track your refund anytime from the [REFUNDS_SECTION] in your account. Refunds are initiated once the returned item passes a quick quality check. It may take 5-7 business days for your bank or payment provider to credit the amount. Prepaid refunds go to the original payment method.
+
+COD refunds are credited to your [SNITCH_WALLET] for future use.
+
+Haven't received it yet? [REFUND_HELP]
+
+**Related Links:** REFUNDS_SECTION, SNITCH_WALLET, REFUND_HELP
+
+------------------------------
+
+## FAQ 2
+**Question:** HOW DO I TRANSFER MONEY FROM WALLET TO BANK ACCOUNT?
+
+**Answer:** Your [SNITCH_WALLET] balance can be used for future purchases. But if you prefer a bank refund, we've got you!
+Need help? [WALLET_TRANSFER]
+
+**Related Links:** SNITCH_WALLET, WALLET_TRANSFER
+
+------------------------------
+
+## FAQ 3
+**Question:** HOW DO I GET MY REFUND FOR PREPAID ORDERS?
+
+**Answer:** For prepaid orders, the mode of refund depends on the mode of payment for the order. The amount would be credited to your account within 2-3 working days. If not, please get in touch with your respective bank.
+
+Please note if any promotional/coupon code is redeemed during a purchase, the full amount will be refunded as store credit. In case of a non-promotional purchase, the full amount will be credited to the bank account.
+
+------------------------------
+
+## FAQ 4
+**Question:** HOW DO I GET MY REFUND FOR CASH ON DELIVERY (COD) ORDERS?
+
+**Answer:** Refunds for COD orders are credited to your [SNITCH_WALLET], which you can use for future purchases. You can check your Wallet balance in the Refund section
+
+Haven't received it yet? [REFUND_HELP]
+
+**Related Links:** SNITCH_WALLET, REFUND_HELP
+
+------------------------------
+
+## FAQ 5
+**Question:** WHY WAS I CHARGED FOR REVERSE PICKUP?
+
+**Answer:** As per our updated return policy, reverse shipments will have charges based on quantity: 0-2 items - free, 1-5 items - ₹50/item, 1-7 items - ₹75/item, more than 7- ₹100/item.
+
+Please note - To maintain fast & reliable returns, we apply a small handling charge based on quantity. This helps us keep things running smoothly and sustainably.
+
+------------------------------
+
+## FAQ 6
+**Question:** HOW DO I GET MY REFUND FOR DISCOUNTED ITEMS?
+
+**Answer:** In case of orders placed with discount is returned, the discount will be waived of and the products will be billed on MRP. The balance amount will be refunded as store credit.
+
+------------------------------
+

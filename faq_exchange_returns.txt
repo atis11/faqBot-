@@ -1,0 +1,129 @@
+# Exchange/Returns FAQ
+
+Total FAQs: 12
+Generated on: 2025-09-06 00:29:18
+
+==================================================
+
+## FAQ 1
+**Question:** HOW CAN I RETURN MY ORDER?
+
+**Answer:** You can initiate a return via [MY_ORDERS] within 30 days of delivery if you're a SNITCH X member. For non-SNITCH X customers, the return window is within 7 days of delivery. Items must be unused, intact, and not part of hygiene-sensitive categories (like innerwear/accessories) or special promotions (like BOGO). See our full [RETURN_POLICY]. Received a wrong, damaged, or defective item? Please report it within 24 hours so we can take prompt action.
+
+Need help? [RETURN_HELP]
+
+**Related Links:** MY_ORDERS, RETURN_POLICY, RETURN_HELP
+
+------------------------------
+
+## FAQ 2
+**Question:** HOW CAN I EXCHANGE MY ORDER?
+
+**Answer:** You can request an exchange via [MY_ORDERS] within 30 days of delivery if you're a SNITCH X member. For non-SNITCH X customers, the exchange window is within 7 days of delivery - currently only for size changes - not for any colour change requests. Ensure the item is intact, they're not hygiene-sensitive (like innerwear or accessories) or part of special promotions (like BOGO). See our full [RETURN_POLICY]. Our delivery partner will pick it up in 1-2 business days, and we'll ship the replacement once received.
+
+Need help? [EXCHANGE_HELP]
+
+**Related Links:** MY_ORDERS, RETURN_POLICY, EXCHANGE_HELP
+
+------------------------------
+
+## FAQ 3
+**Question:** MY RETURN IS NOT PICKED
+
+**Answer:** Our courier partner usually picks up return orders within 2-3 business days of the request. If it's been longer, please check the [MY_ORDERS] section for the latest status. Sometimes delays can occur due to service availability or local issues.
+
+**Related Links:** MY_ORDERS
+
+------------------------------
+
+## FAQ 4
+**Question:** MY RETURN IS PICKED UP BUT EXCHANGE ORDER IS NOT DELIVERED
+
+**Answer:** We don't deliver the exchange item at the time of pickup. After your order is picked up (usually within 2-3 business days), we ship exchange item as per our standard delivery timelines.
+
+Need help? [EXCHANGE_ORDER_HELP]
+
+**Related Links:** EXCHANGE_ORDER_HELP
+
+------------------------------
+
+## FAQ 5
+**Question:** WITHIN HOW MANY DAYS OF DELIVERY CAN I RETURN MY ORDER?
+
+**Answer:** We accept returns within 30 days of delivery if you are a SNITCH X member. For non-SNITCH X customer the return window is within 7 days of delivery. Go to [MY_ORDERS], select the delivered item, select Return and follow the steps.
+
+Need more help? [ORDER_SUPPORT]
+
+**Related Links:** MY_ORDERS, ORDER_SUPPORT
+
+------------------------------
+
+## FAQ 6
+**Question:** HOW CAN I EXCHANGE FOR A DIFFERENT SIZE?
+
+**Answer:** Exchanges for size are allowed within 30 days of delivery if you are a SNITCH X member. For non-SNITCH X customer the exchange window is within 7 days of delivery. Go to [MY_ORDERS], select the delivered item, and select Exchange and follow the steps. Our Courier champ will pick up the original item in 1-2 days; we'll ship the replacement post the Quality Checks.
+
+Need Help? [EXCHANGE_HELP]
+
+**Related Links:** MY_ORDERS, EXCHANGE_HELP
+
+------------------------------
+
+## FAQ 7
+**Question:** WHAT SHOULD I DO IF I RECEIVE A DAMAGED PRODUCT?
+
+**Answer:** We're sorry about that! You can raise an exchange request within 7 days of delivery through [MY_ORDERS].
+Need more help? [EXCHANGE_HELP]
+
+**Related Links:** MY_ORDERS, EXCHANGE_HELP
+
+------------------------------
+
+## FAQ 8
+**Question:** I RECEIVED THE WRONG ITEM-WHAT SHOULD I DO?
+
+**Answer:** You can initiate a return request via [MY_ORDERS] within 30 days of delivery if you are a SNITCH X member. For non-SNITCH X customer the return window is within 7 days of delivery.
+Need help? [RETURN_HELP]
+
+**Related Links:** MY_ORDERS, RETURN_HELP
+
+------------------------------
+
+## FAQ 9
+**Question:** I HAVE REQUESTED A REPLACEMENT-WHEN WILL I RECEIVE IT?
+
+**Answer:** Your existing item will be picked up within 1-2 business days by our courier champ. The replacement will be dispatched after successful quality check at our warehouse. You can track the progress under [MY_ORDERS].
+
+**Related Links:** MY_ORDERS
+
+------------------------------
+
+## FAQ 10
+**Question:** WHY IS MY PICKUP DELAYED?
+
+**Answer:** Pickups are usually completed within 2-3 business days. If a slot is missed, it's automatically rescheduled. Our courier champ will attempt pickup up to 3 times before closing the request. Track your status in [MY_ORDERS].
+
+Need Help? [GENERAL_HELP]
+
+**Related Links:** MY_ORDERS, GENERAL_HELP
+
+------------------------------
+
+## FAQ 11
+**Question:** MY RETURN IS PICKED UP BUT THE EXCHANGE ITEM HASN'T ARRIVED
+
+**Answer:** Once the pickup is completed, the replacement item is dispatched within 1–2 business days. You can track the delivery progress under [MY_ORDERS].
+
+Need Help? [GENERAL_HELP]
+
+**Related Links:** MY_ORDERS, GENERAL_HELP
+
+------------------------------
+
+## FAQ 12
+**Question:** CAN I RETURN ALL ITEMS?
+
+**Answer:** Certain items are non-returnable due to hygiene and safety reasons. These include: Innerwear (Briefs, Trunks, Boxers), Socks, Sunglasses, Accessories, Perfumes, and Face Masks. Additionally, any free products received as part of promotional offers are also not eligible for return or exchange.
+
+------------------------------
+
